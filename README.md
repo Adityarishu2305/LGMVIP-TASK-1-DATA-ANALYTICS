@@ -1,1 +1,4 @@
-# LGMVIP-TASK-1-DATA-ANALYTICS
+# LGMVIP-DataScience
+Internship program with LetGrowMore as Data Science Intern
+
+
